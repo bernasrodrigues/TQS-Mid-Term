@@ -1,0 +1,11 @@
+Info from cities avaliable from:
+https://aqicn.org/api/pt/
+
+
+token 
+0d185058c1ba213d1c422bba3d7bb4a08e7564b7
+
+
+
+example:
+http://api.waqi.info/feed/shanghai/?token=demo
